@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3d0422d-0b19-451e-af46-1bce2baad640" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Software/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\Software\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1igdmh8v1nZBHPiXikwcC6v4IJt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imooc-coupon-service/coupon-settlrment/src/main/java/com/imooc/coupon" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35787922" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learn\imooc-coupon\imooc-coupon-service\coupon-settlrment\src\main\java\com\imooc\coupon" />
+      <recent name="D:\Learn\imooc-coupon\imooc-coupon-service\coupon-settlrment\src\main\resources" />
+      <recent name="D:\Learn\imooc-coupon\imooc-coupon-service\coupon-distribution\src\main\java\com\imooc\coupon" />
+      <recent name="D:\Learn\imooc-coupon\imooc-coupon-service\coupon-distribution\src\main\java\com\imooc\coupon\service" />
+      <recent name="D:\Learn\imooc-coupon\imooc-coupon-service\coupon-distribution\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.coupon.vo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learn\imooc-coupon\imooc-coupon-service\coupon-template\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZuulGatewayApplication">
+    <configuration name="BuildTemplateTest.testBuildTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.coupon.service.BuildTemplateTest" />
+      <option name="METHOD_NAME" value="testBuildTemplate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateBaseTest.testBuildTemplateInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.coupon.service.TemplateBaseTest" />
+      <option name="METHOD_NAME" value="testBuildTemplateInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateBaseTest.testFindAllUsableTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.coupon.service.TemplateBaseTest" />
+      <option name="METHOD_NAME" value="testFindAllUsableTemplate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="coupon-distribution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.coupon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.coupon.DistributionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.coupon.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SettlementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="coupon-settlrment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.coupon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.coupon.SettlementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-template" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.coupon.TemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.coupon.ZuulGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DistributionApplication" />
+        <item itemvalue="Spring Boot.SettlementApplication" />
+        <item itemvalue="JUnit.BuildTemplateTest.testBuildTemplate" />
+        <item itemvalue="JUnit.TemplateBaseTest.testFindAllUsableTemplate" />
+        <item itemvalue="JUnit.TemplateBaseTest.testBuildTemplateInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.139738" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3d0422d-0b19-451e-af46-1bce2baad640" name="Default Changelist" comment="" />
+      <created>1602333329877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602333329877</updated>
+      <workItem from="1602333335028" duration="2923000" />
+      <workItem from="1602383466137" duration="11889000" />
+      <workItem from="1602415736527" duration="670000" />
+      <workItem from="1602416420498" duration="8669000" />
+      <workItem from="1602469324869" duration="13253000" />
+      <workItem from="1602493172579" duration="6357000" />
+      <workItem from="1602648171586" duration="12902000" />
+      <workItem from="1602728789296" duration="9176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="713" y="204" key="#Assign_Data_Sources" timestamp="1602429647758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="204" key="#Assign_Data_Sources/0.0.1920.1040@0.0.1920.1040" timestamp="1602429647758" />
+    <state x="552" y="177" key="#Project_Structure" timestamp="1602733110090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1602733110090" />
+    <state x="1146" y="348" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1602392763264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1146" y="348" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602392763264" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1602674463801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602674463801" />
+    <state x="604" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602670022708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="604" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602670022708" />
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602673504649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602673504649" />
+    <state x="1212" y="395" key="FileChooserDialogImpl" timestamp="1602392549514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1212" y="395" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602392549514" />
+    <state width="1588" height="2" key="GridCell.Tab.0.bottom" timestamp="1602772516162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1588" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602772516162" />
+    <state width="1588" height="2" key="GridCell.Tab.0.center" timestamp="1602772516162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1588" height="2" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602772516162" />
+    <state width="1588" height="2" key="GridCell.Tab.0.left" timestamp="1602772516162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1588" height="2" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602772516162" />
+    <state width="1588" height="2" key="GridCell.Tab.0.right" timestamp="1602772516162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1588" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602772516162" />
+    <state width="1588" height="2" key="GridCell.Tab.1.bottom" timestamp="1602772516162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1588" height="2" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602772516162" />
+    <state width="1588" height="2" key="GridCell.Tab.1.center" timestamp="1602772516162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1588" height="2" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602772516162" />
+    <state width="1588" height="2" key="GridCell.Tab.1.left" timestamp="1602772516162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1588" height="2" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602772516162" />
+    <state width="1588" height="2" key="GridCell.Tab.1.right" timestamp="1602772516162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1588" height="2" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602772516162" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1602503870153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602503870153" />
+    <state x="720" y="194" key="SettingsEditor" timestamp="1602392824893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="194" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602392824893" />
+    <state x="465" y="342" key="new project wizard" timestamp="1602670607999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="465" y="342" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1602670607999" />
+    <state x="661" y="146" key="refactoring.ChangeSignatureDialog" timestamp="1602674360818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="146" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602674360818" />
+    <state x="507" y="201" key="spring file set editor" timestamp="1602416468279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="507" y="201" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1602416468279" />
+  </component>
+</project>
